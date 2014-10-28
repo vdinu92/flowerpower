@@ -1,0 +1,43 @@
+Grupo Santillana	324965.00
+China Education and Media Group	121347.00
+Wolters Kluwer	118190.00
+Harlequin	106121.00
+Grupo Planeta	99990.00
+Gakken	67017.00
+Cornelsen	66271.00
+Grupo Santillana	65944.00
+De Agostini Editore	64312.00
+Houghton Mifflin Harcourt	63920.00
+Cornelsen	61242.00
+Egmont Group	57136.00
+Gakken	53880.00
+Readers' Digest	47094.00
+RCS Libri	44010.00
+Oxford University Press	40761.00
+Shueisha	39030.00
+Bonnier	33610.00
+Informa	32972.00
+Lefebre Sarrut	32930.00
+Pearson	32580.00
+Abril Educacao	30420.00
+Pearson	29848.00
+Wolters Kluwer	29334.00
+Random House	29322.00
+Houghton Mifflin Harcourt	26117.00
+Grupo Planeta	24336.00
+Gakken	22584.00
+Pearson	20920.00
+Wiley	18018.00
+Simon & Schuster	7989.00
+Scholastic	4341.00
+Grupo Santillana	1824.00
+Readers' Digest	245.00
+Harlequin	0.00
+Hachette Livre	0.00
+Holtzbrinck	0.00
+Egmont Group	0.00
+Reed Elsevier	0.00
+Oxford University Press	0.00
+Egmont Group	0.00
+Lefebre Sarrut	0.00
+De Agostini Editore	0.00

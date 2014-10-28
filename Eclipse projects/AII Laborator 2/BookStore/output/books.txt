@@ -1,0 +1,200 @@
+1	Marguerite YOURCENAR,Marguerite YOURCENAR	The Divine Comedy	Hachette Livre	1973	
+2	* * *	Great Expectations	Shueisha	1908	
+3	* * *	Lolita	Grupo Santillana	1917	
+4	* * *	Pride and Prejudice	Lefebre Sarrut	1997	
+5	Kurt VONNEGUT,Kurt VONNEGUT	Journey to the End of the Night	Grupo Planeta	1849	
+6	* * *	King Lear	GeMS - Gruppo editoriale Mauri Spagnol	1965	
+7	Dante ALIGHIERI,Dante ALIGHIERI	The Bals Soprano	Shogakukan	1907	
+8	* * *	The Master and Margarita	Cornelsen	1822	
+9	Franz KAFKA,Franz KAFKA,Franz KAFKA,Franz KAFKA	Madame Bovary	De Agostini Editore	2009	
+10	* * *	Memories of Hadrian	Kadokawa Publishing	1905	
+11	George ORWELL,George ORWELL	The Sound and the Fury	Houghton Mifflin Harcourt	1846	
+12	Richard WRIGHT,Richard WRIGHT	The Old Man and the Sea	Harlequin	1920	
+13	Ernest HEMINGWAY,Malcolm LOWRY,Ernest HEMINGWAY,Malcolm LOWRY	The Magic Mountain	Egmont Group	1956	
+14	J. D. SALINGER,Franz KAFKA,Vladimir NABOKOV,J. D. SALINGER,Vladimir NABOKOV,Vladimir NABOKOV	Lolita	Random House	1884	
+15	* * *	Things Fall Apart	Abril Educacao	1826	
+16	Charles DICKENS,Fyodor DOSTOEVSKY,Toni MORRISON,Charles DICKENS,Fyodor DOSTOEVSKY,Toni MORRISON	The Divine Comedy	Holtzbrinck	1896	
+17	Emily BRONTE,Joseph HELLER,Emily BRONTE,Joseph HELLER	Pride and Prejudice	Cornelsen	1915	
+18	Joseph CONRAD,Salman RUSHDIE,Jorge Luis BORGES,Joseph CONRAD,Salman RUSHDIE,Jorge Luis BORGES	The Sound and the Fury	Readers' Digest	1905	
+19	Harper LEE,Ernest HEMINGWAY,Toni MORRISON,Joseph HELLER,Harper LEE,Ernest HEMINGWAY,Toni MORRISON,Joseph HELLER	The Catcher in the Rye	De Agostini Editore	1888	
+20	* * *	Love in the Time of Cholera	De Agostini Editore	1975	
+21	* * *	Madame Bovary	Readers' Digest	1925	
+22	George ELLIOT,George ELLIOT	Journey to the End of the Night	Cornelsen	1990	
+23	John STEINBECK,Gabriel GARCIA MARQUEZ,John STEINBECK,Gabriel GARCIA MARQUEZ	Middlemarch	Pearson	2008	
+24	Vladimir NABOKOV,George ELLIOT,Joseph CONRAD,Vladimir NABOKOV,George ELLIOT,Joseph CONRAD	Things Fall Apart	Abril Educacao	1928	
+25	* * *	Crime and Punishment	Cornelsen	1911	
+26	Malcolm LOWRY,Malcolm LOWRY	King Lear	RCS Libri	1836	
+27	* * *	One Hundred Years of Solitude	Houghton Mifflin Harcourt	1867	
+28	Anton CHEKHOV,Margaret MITCHELL,Salman RUSHDIE,Anton CHEKHOV,Margaret MITCHELL,Salman RUSHDIE	The Divine Comedy	Gakken	1802	
+29	* * *	Crime and Punishment	Holtzbrinck	1896	
+30	* * *	The Magic Mountain	Egmont Group	1895	
+31	Geoffrey CHAUCER,Ernest HEMINGWAY,Geoffrey CHAUCER,Ernest HEMINGWAY	King Lear	Oxford University Press	2007	
+32	* * *	Mrs Dalloway	Wiley	1900	
+33	* * *	Brave New World	China Education and Media Group	1977	
+34	Thomas MANN,Thomas MANN	The Decameron	De Agostini Editore	1852	
+35	* * *	Anna Karenina	Pearson	1837	
+36	* * *	The Castle	Lefebre Sarrut	1823	
+37	* * *	Nineteen Eighty-Four	Holtzbrinck	1888	
+38	Mikhail BULGAKOV,Mikhail BULGAKOV	Moby Dick	Bonnier	1875	
+39	Gunter GRASS,Harper LEE,Gunter GRASS,Harper LEE	Mrs Dalloway	Informa	1938	
+40	* * *	The Name of the Rose	Wolters Kluwer	1922	
+41	* * *	Othello	Wolters Kluwer	1877	
+42	James JOYCE,James JOYCE	Anna Karenina	Springer Science and Business Media	1919	
+43	William FAULKNER,William FAULKNER	The Magic Mountain	Random House	1887	
+44	Joseph CONRAD,Joseph CONRAD	Lolita	Lefebre Sarrut	1859	
+45	Virginia WOOLF,Virginia WOOLF	The Order of Things	Cengage Learning	1891	
+46	William FAULKNER,William FAULKNER	Othello	Cornelsen	2007	
+47	Joseph CONRAD,Joseph CONRAD	The Stranger	Grupo Santillana	1848	
+48	* * *	The Bals Soprano	Wolters Kluwer	1912	
+49	Vladimir NABOKOV,Nikolai GOGOL,Vladimir NABOKOV,Nikolai GOGOL	The Bals Soprano	Wolters Kluwer	1803	
+50	John STEINBECK,J. D. SALINGER,John STEINBECK,J. D. SALINGER	The Divine Comedy	Reed Elsevier	1918	
+51	* * *	Gone with the Wind	RCS Libri	1857	
+52	Vladimir NABOKOV,Vladimir NABOKOV	King Lear	Hachette Livre	1958	
+53	* * *	One Hundred Years of Solitude	Egmont Group	1927	
+54	Nathaniel HAWTHORNE,William FAULKNER,Nathaniel HAWTHORNE,Nathaniel HAWTHORNE,William FAULKNER,Nathaniel HAWTHORNE	The Sound and the Fury	Houghton Mifflin Harcourt	1887	
+55	Geoffrey CHAUCER,Geoffrey CHAUCER	The Name of the Rose	HarperCollins	1921	
+56	Salman RUSHDIE,Salman RUSHDIE	The War of the Worlds	De Agostini Editore	1995	
+57	Nathaniel HAWTHORNE,Nathaniel HAWTHORNE	The Catcher in the Rye	Cornelsen	1870	
+58	Leo TOLSTOY,Leo TOLSTOY	The Brothers Karamazov	Pearson	1873	
+59	Marguerite YOURCENAR,Richard WRIGHT,Marguerite YOURCENAR,Richard WRIGHT	Memories of Hadrian	Scholastic	1825	
+60	Vladimir NABOKOV,Henry FIELDING,Vladimir NABOKOV,Henry FIELDING	The Sound and the Fury	Houghton Mifflin Harcourt	1840	
+61	Jane AUSTEN,Vladimir NABOKOV,Jane AUSTEN,Vladimir NABOKOV	To the Lighthouse	Grupo Planeta	1890	
+62	Louis-Ferdinand CELINE,Kurt VONNEGUT,Louis-Ferdinand CELINE,Kurt VONNEGUT	The Order of Things	Random House	1947	
+63	Malcolm LOWRY,Thomas MANN,Malcolm LOWRY,Nathaniel HAWTHORNE,Thomas MANN	The Idiot	Egmont Group	1885	
+64	Gunter GRASS,Gunter GRASS	Great Expectations	Gakken	2000	
+65	Anton CHEKHOV,Charles DICKENS,Anton CHEKHOV,Charles DICKENS	The Grapes of Wrath	De Agostini Editore	1867	
+66	Richard WRIGHT,Joseph CONRAD,Richard WRIGHT,Joseph CONRAD	Nineteen Eighty-Four	Grupo Santillana	1890	
+67	Emily BRONTE,Ralph ELLISON,Emily BRONTE,Ralph ELLISON	Lolita	Oxford University Press	1989	
+68	* * *	Nineteen Eighty-Four	Cornelsen	1881	
+69	Margaret MITCHELL,Margaret MITCHELL	The Stranger	Simon & Schuster	1856	
+70	Salman RUSHDIE,Salman RUSHDIE	The Castle	Egmont Group	1949	
+71	* * *	Wuthering Heights	Holtzbrinck	1812	
+72	Gunter GRASS,Dante ALIGHIERI,Gunter GRASS,Dante ALIGHIERI	In Search of Lost Time	Harlequin	1942	
+73	* * *	The Decameron	Egmont Group	1984	
+74	Kurt VONNEGUT,Kurt VONNEGUT	The Decameron	Houghton Mifflin Harcourt	1920	
+75	* * *	Pride and Prejudice	Pearson	1915	
+76	* * *	The Stranger	Informa	1825	
+77	* * *	The Death of Ivan Ilych	Wolters Kluwer	1822	
+78	Thomas MANN,Thomas MANN	The Little Prince	Informa	1870	
+79	Emily BRONTE,Emily BRONTE	The Sound and the Fury	Readers' Digest	1929	
+80	Herman MELVILLE,Joseph HELLER,Joseph CONRAD,Herman MELVILLE,Joseph HELLER,Joseph CONRAD	Dead Souls	Gakken	1871	
+81	Margaret MITCHELL,Margaret MITCHELL	Sentimental Education	Bonnier	1908	
+82	* * *	The Order of Things	Readers' Digest	1807	
+83	Richard WRIGHT,Richard WRIGHT	The Magic Mountain	Egmont Group	1952	
+84	Thomas MANN,Leo TOLSTOY,Thomas MANN	The Name of the Rose	China Education and Media Group	1813	
+85	* * *	The Master and Margarita	Harlequin	1832	
+86	Antoine de SAINT-EXUPERY,Joseph HELLER,Antoine de SAINT-EXUPERY,Joseph HELLER	Things Fall Apart	Pearson	1954	
+87	* * *	Anna Karenina	HarperCollins	1815	
+88	Gabriel GARCIA MARQUEZ,Gabriel GARCIA MARQUEZ	The Magic Mountain	De Agostini Editore	1874	
+89	* * *	Things Fall Apart	Klett	1868	
+90	Jane AUSTEN,Jane AUSTEN	King Lear	Oxford University Press	1947	
+91	* * *	The Catcher in the Rye	Egmont Group	1936	
+92	* * *	The Hound of the Baskervilles	Grupo Planeta	1815	
+93	* * *	The War of the Worlds	Grupo Santillana	1970	
+94	* * *	Othello	Reed Elsevier	1925	
+95	Thomas MANN,Fyodor DOSTOEVSKY,Thomas MANN,Fyodor DOSTOEVSKY	Love in the Time of Cholera	Egmont Group	1950	
+96	D. H. LAWRENCE,D. H. LAWRENCE	Lolita	Shueisha	1814	
+97	William FAULKNER,William FAULKNER	Madame Bovary	Grupo Planeta	1893	
+98	* * *	The Hound of the Baskervilles	Klett	1994	
+99	Nikolai GOGOL,Nikolai GOGOL	Journey to the End of the Night	Cornelsen	1867	
+100	Marguerite YOURCENAR,Marguerite YOURCENAR	Anna Karenina	Holtzbrinck	2009	
+101	* * *	The Divine Comedy	Hachette Livre	1973	
+102	* * *	Great Expectations	Shueisha	1908	
+103	* * *	Lolita	Grupo Santillana	1917	
+104	* * *	Pride and Prejudice	Lefebre Sarrut	1997	
+105	* * *	Journey to the End of the Night	Grupo Planeta	1849	
+106	* * *	King Lear	GeMS - Gruppo editoriale Mauri Spagnol	1965	
+107	* * *	The Bals Soprano	Shogakukan	1907	
+108	* * *	The Master and Margarita	Cornelsen	1822	
+109	* * *	Madame Bovary	De Agostini Editore	2009	
+110	* * *	Memories of Hadrian	Kadokawa Publishing	1905	
+111	* * *	The Sound and the Fury	Houghton Mifflin Harcourt	1846	
+112	* * *	The Old Man and the Sea	Harlequin	1920	
+113	* * *	The Magic Mountain	Egmont Group	1956	
+114	* * *	Lolita	Random House	1884	
+115	* * *	Things Fall Apart	Abril Educacao	1826	
+116	* * *	The Divine Comedy	Holtzbrinck	1896	
+117	* * *	Pride and Prejudice	Cornelsen	1915	
+118	* * *	The Sound and the Fury	Readers' Digest	1905	
+119	* * *	The Catcher in the Rye	De Agostini Editore	1888	
+120	* * *	Love in the Time of Cholera	De Agostini Editore	1975	
+121	* * *	Madame Bovary	Readers' Digest	1925	
+122	* * *	Journey to the End of the Night	Cornelsen	1990	
+123	* * *	Middlemarch	Pearson	2008	
+124	* * *	Things Fall Apart	Abril Educacao	1928	
+125	* * *	Crime and Punishment	Cornelsen	1911	
+126	* * *	King Lear	RCS Libri	1836	
+127	* * *	One Hundred Years of Solitude	Houghton Mifflin Harcourt	1867	
+128	* * *	The Divine Comedy	Gakken	1802	
+129	* * *	Crime and Punishment	Holtzbrinck	1896	
+130	* * *	The Magic Mountain	Egmont Group	1895	
+131	* * *	King Lear	Oxford University Press	2007	
+132	* * *	Mrs Dalloway	Wiley	1900	
+133	* * *	Brave New World	China Education and Media Group	1977	
+134	* * *	The Decameron	De Agostini Editore	1852	
+135	* * *	Anna Karenina	Pearson	1837	
+136	* * *	The Castle	Lefebre Sarrut	1823	
+137	* * *	Nineteen Eighty-Four	Holtzbrinck	1888	
+138	* * *	Moby Dick	Bonnier	1875	
+139	* * *	Mrs Dalloway	Informa	1938	
+140	* * *	The Name of the Rose	Wolters Kluwer	1922	
+141	* * *	Othello	Wolters Kluwer	1877	
+142	* * *	Anna Karenina	Springer Science and Business Media	1919	
+143	* * *	The Magic Mountain	Random House	1887	
+144	* * *	Lolita	Lefebre Sarrut	1859	
+145	* * *	The Order of Things	Cengage Learning	1891	
+146	* * *	Othello	Cornelsen	2007	
+147	* * *	The Stranger	Grupo Santillana	1848	
+148	* * *	The Bals Soprano	Wolters Kluwer	1912	
+149	* * *	The Bals Soprano	Wolters Kluwer	1803	
+150	* * *	The Divine Comedy	Reed Elsevier	1918	
+151	* * *	Gone with the Wind	RCS Libri	1857	
+152	* * *	King Lear	Hachette Livre	1958	
+153	* * *	One Hundred Years of Solitude	Egmont Group	1927	
+154	* * *	The Sound and the Fury	Houghton Mifflin Harcourt	1887	
+155	* * *	The Name of the Rose	HarperCollins	1921	
+156	* * *	The War of the Worlds	De Agostini Editore	1995	
+157	* * *	The Catcher in the Rye	Cornelsen	1870	
+158	* * *	The Brothers Karamazov	Pearson	1873	
+159	* * *	Memories of Hadrian	Scholastic	1825	
+160	* * *	The Sound and the Fury	Houghton Mifflin Harcourt	1840	
+161	* * *	To the Lighthouse	Grupo Planeta	1890	
+162	* * *	The Order of Things	Random House	1947	
+163	* * *	The Idiot	Egmont Group	1885	
+164	* * *	Great Expectations	Gakken	2000	
+165	* * *	The Grapes of Wrath	De Agostini Editore	1867	
+166	* * *	Nineteen Eighty-Four	Grupo Santillana	1890	
+167	* * *	Lolita	Oxford University Press	1989	
+168	* * *	Nineteen Eighty-Four	Cornelsen	1881	
+169	* * *	The Stranger	Simon & Schuster	1856	
+170	* * *	The Castle	Egmont Group	1949	
+171	* * *	Wuthering Heights	Holtzbrinck	1812	
+172	* * *	In Search of Lost Time	Harlequin	1942	
+173	* * *	The Decameron	Egmont Group	1984	
+174	* * *	The Decameron	Houghton Mifflin Harcourt	1920	
+175	* * *	Pride and Prejudice	Pearson	1915	
+176	* * *	The Stranger	Informa	1825	
+177	* * *	The Death of Ivan Ilych	Wolters Kluwer	1822	
+178	* * *	The Little Prince	Informa	1870	
+179	* * *	The Sound and the Fury	Readers' Digest	1929	
+180	* * *	Dead Souls	Gakken	1871	
+181	* * *	Sentimental Education	Bonnier	1908	
+182	* * *	The Order of Things	Readers' Digest	1807	
+183	* * *	The Magic Mountain	Egmont Group	1952	
+184	* * *	The Name of the Rose	China Education and Media Group	1813	
+185	* * *	The Master and Margarita	Harlequin	1832	
+186	* * *	Things Fall Apart	Pearson	1954	
+187	* * *	Anna Karenina	HarperCollins	1815	
+188	* * *	The Magic Mountain	De Agostini Editore	1874	
+189	* * *	Things Fall Apart	Klett	1868	
+190	* * *	King Lear	Oxford University Press	1947	
+191	* * *	The Catcher in the Rye	Egmont Group	1936	
+192	* * *	The Hound of the Baskervilles	Grupo Planeta	1815	
+193	* * *	The War of the Worlds	Grupo Santillana	1970	
+194	* * *	Othello	Reed Elsevier	1925	
+195	* * *	Love in the Time of Cholera	Egmont Group	1950	
+196	* * *	Lolita	Shueisha	1814	
+197	* * *	Madame Bovary	Grupo Planeta	1893	
+198	* * *	The Hound of the Baskervilles	Klett	1994	
+199	* * *	Journey to the End of the Night	Cornelsen	1867	
+200	* * *	Anna Karenina	Holtzbrinck	2009	

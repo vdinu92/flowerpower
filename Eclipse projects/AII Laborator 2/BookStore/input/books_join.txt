@@ -1,0 +1,63 @@
+100	Anna Karenina	5311.0	China Education and Media Group	Great Victorian Romance to Daydream About	sport
+98	The Hound of the Baskervilles	1775.0	Reed Elsevier	Literary Horror	mystery
+97	Madame Bovary	1121.0	Grupo Planeta	Colonial and Post-colonial Literature	thriller
+95	Love in the Time of Cholera	2501.0	Oxford University Press	Books That Surprised Me - Way Better Than I Thought They Would Be	classic
+94	Othello	6604.0	Informa	Best Psilosophical Literature	monography
+93	The War of the Worlds	9510.0	Hachette Livre	Books To Read Before You Die	dictionary
+92	The Hound of the Baskervilles	2614.0	Grupo Santillana	Fictionalized Accounts of Real People	travel
+90	King Lear	3356.0	Pearson	What to Read after Harry Potter	art
+86	Things Fall Apart	6213.0	Random House	Colonial and Post-colonial Literature	thriller
+85	The Master and Margarita	5607.0	Klett	Once Upon a Time Series	children
+84	The Name of the Rose	1517.0	Wolters Kluwer	Books To Read Before You Die	dictionary
+83	The Magic Mountain	8081.0	Harlequin	I Don't Understand All That Fuss	business
+81	Sentimental Education	5041.0	Grupo Planeta	20th Century Hungarian Literature	school
+79	The Sound and the Fury	2379.0	Kadokawa Publishing	The Must-Have Series for Children Ages 6 to 12	computing
+78	The Little Prince	1617.0	GeMS - Gruppo editoriale Mauri Spagnol	The Must-Have Series for Children Ages 6 to 12	computing
+76	The Stranger	5602.0	Houghton Mifflin Harcourt	Best Spy Novels	comics
+75	Pride and Prejudice	4606.0	Readers' Digest	Strong Heroine Series	biography
+73	The Decameron	1626.0	Lefebre Sarrut	Best Series to Start	fictional
+71	Wuthering Heights	9137.0	Pearson	What to Read after Harry Potter	art
+69	The Stranger	6171.0	Oxford University Press	Best Sci-Fi/Fantasy Series	horror
+68	Nineteen Eighty-Four	9434.0	Bonnier	The 50 greatest British writers since 1945	science
+62	The Order of Things	4895.0	Cornelsen	Mysteries in Good Taste	diary
+61	To the Lighthouse	9540.0	Holtzbrinck	I Don't Understand All That Fuss	business
+60	The Sound and the Fury	3114.0	Simon & Schuster	Literary Horror	mystery
+59	Memories of Hadrian	7341.0	Holtzbrinck	Contemporary Black Women's Literature	society
+53	One Hundred Years of Solitude	2014.0	Shogakukan	Most Difficult Novels	music
+52	King Lear	945.0	Holtzbrinck	Books for Middle-Schoolers	drama
+49	The Bals Soprano	5884.0	Hachette Livre	Classic Picture Book Characters	finance
+47	The Stranger	7773.0	Cornelsen	The Ultimate Reading List	economics
+45	The Order of Things	7895.0	De Agostini Editore	Most Difficult Novels	music
+44	Lolita	6269.0	Houghton Mifflin Harcourt	Strong Heroine Series	biography
+41	Othello	8241.0	Gakken	Best Sci-Fi/Fantasy Series	horror
+40	The Name of the Rose	4341.0	De Agostini Editore	Literary Horror	mystery
+38	Moby Dick	5529.0	Harlequin	Books That Surprised Me - Way Better Than I Thought They Would Be	classic
+37	Nineteen Eighty-Four	8464.0	Houghton Mifflin Harcourt	Great Underrated and Obscure Books	politics
+36	The Castle	1432.0	Egmont Group	Middle Earth	health
+35	Anna Karenina	5331.0	Grupo Santillana	American Literature at the Movies	poetry
+33	Brave New World	2965.0	Gakken	Books To Read Before You Die	dictionary
+32	Mrs Dalloway	3363.0	Wiley	Most Difficult Novels	music
+31	King Lear	9311.0	Wolters Kluwer	The Best Epic Fantasy	adventure
+30	The Magic Mountain	8103.0	Pearson	Fictionalized Accounts of Real People	travel
+29	Crime and Punishment	3258.0	Cengage Learning	Middle Earth	health
+28	The Divine Comedy	245.0	Egmont Group	Best German Children Literature	philosophy
+27	One Hundred Years of Solitude	946.0	Grupo Planeta	Great Victorian Romance to Daydream About	sport
+26	King Lear	8686.0	Springer Science and Business Media	Middle Earth	health
+25	Crime and Punishment	7339.0	Gakken	Best Books of the 19th Century	house
+24	Things Fall Apart	4798.0	Egmont Group	Literary Horror	mystery
+22	Journey to the End of the Night	7849.0	Grupo Santillana	Modern-day Classics	religious
+20	Love in the Time of Cholera	3486.0	Lefebre Sarrut	American Literature at the Movies	poetry
+19	The Catcher in the Rye	3731.0	Cornelsen	Best Authors Ever	satire
+18	The Sound and the Fury	5722.0	Grupo Planeta	Best Paranormal Romance Series	anthology
+17	Pride and Prejudice	6897.0	RCS Libri	Best Authors Ever	satire
+16	The Divine Comedy	4922.0	HarperCollins	Best Spy Novels	comics
+15	Things Fall Apart	4079.0	Harlequin	Best Psilosophical Literature	monography
+14	Lolita	433.0	China Education and Media Group	Literary Horror	mystery
+12	The Old Man and the Sea	577.0	De Agostini Editore	Strong Heroine Series	biography
+11	The Sound and the Fury	9955.0	Reed Elsevier	Books for Middle-Schoolers	drama
+10	Memories of Hadrian	7920.0	Abril Educacao	Best Sci-Fi/Fantasy Series	horror
+9	Madame Bovary	7990.0	Readers' Digest	Best German Children Literature	philosophy
+7	The Bals Soprano	1270.0	Scholastic	Best Authors Ever	satire
+5	Journey to the End of the Night	1306.0	Egmont Group	Classic Picture Book Characters	finance
+3	Lolita	2704.0	Shueisha	Books That Surprised Me - Way Better Than I Thought They Would Be	classic
+2	Great Expectations	4765.0	Abril Educacao	Best South Slavic Literature	romance

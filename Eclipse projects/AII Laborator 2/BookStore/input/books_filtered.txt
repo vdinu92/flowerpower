@@ -1,0 +1,27 @@
+98	The Hound of the Baskervilles	1775.0	Reed Elsevier	Literary Horror	mystery
+97	Madame Bovary	1121.0	Grupo Planeta	Colonial and Post-colonial Literature	thriller
+95	Love in the Time of Cholera	2501.0	Oxford University Press	Books That Surprised Me - Way Better Than I Thought They Would Be	classic
+92	The Hound of the Baskervilles	2614.0	Grupo Santillana	Fictionalized Accounts of Real People	travel
+90	King Lear	3356.0	Pearson	What to Read after Harry Potter	art
+84	The Name of the Rose	1517.0	Wolters Kluwer	Books To Read Before You Die	dictionary
+79	The Sound and the Fury	2379.0	Kadokawa Publishing	The Must-Have Series for Children Ages 6 to 12	computing
+78	The Little Prince	1617.0	GeMS - Gruppo editoriale Mauri Spagnol	The Must-Have Series for Children Ages 6 to 12	computing
+75	Pride and Prejudice	4606.0	Readers' Digest	Strong Heroine Series	biography
+73	The Decameron	1626.0	Lefebre Sarrut	Best Series to Start	fictional
+62	The Order of Things	4895.0	Cornelsen	Mysteries in Good Taste	diary
+60	The Sound and the Fury	3114.0	Simon & Schuster	Literary Horror	mystery
+53	One Hundred Years of Solitude	2014.0	Shogakukan	Most Difficult Novels	music
+40	The Name of the Rose	4341.0	De Agostini Editore	Literary Horror	mystery
+36	The Castle	1432.0	Egmont Group	Middle Earth	health
+33	Brave New World	2965.0	Gakken	Books To Read Before You Die	dictionary
+32	Mrs Dalloway	3363.0	Wiley	Most Difficult Novels	music
+29	Crime and Punishment	3258.0	Cengage Learning	Middle Earth	health
+24	Things Fall Apart	4798.0	Egmont Group	Literary Horror	mystery
+20	Love in the Time of Cholera	3486.0	Lefebre Sarrut	American Literature at the Movies	poetry
+19	The Catcher in the Rye	3731.0	Cornelsen	Best Authors Ever	satire
+16	The Divine Comedy	4922.0	HarperCollins	Best Spy Novels	comics
+15	Things Fall Apart	4079.0	Harlequin	Best Psilosophical Literature	monography
+7	The Bals Soprano	1270.0	Scholastic	Best Authors Ever	satire
+5	Journey to the End of the Night	1306.0	Egmont Group	Classic Picture Book Characters	finance
+3	Lolita	2704.0	Shueisha	Books That Surprised Me - Way Better Than I Thought They Would Be	classic
+2	Great Expectations	4765.0	Abril Educacao	Best South Slavic Literature	romance

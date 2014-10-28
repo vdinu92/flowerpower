@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="128.0" prefWidth="336.0000999999975" style="-fx-background-color: beige;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ro.pub.cs.aipi.lab03.controller.Authentication">
+  <children>
+    <GridPane layoutX="15.0" layoutY="8.0" prefWidth="309.0">
+      <children>
+        <Label text="User name:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <Label text="Password:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+        <TextField fx:id="usernameTextField" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+        <PasswordField fx:id="passwordTextField" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <HBox prefHeight="100.0" prefWidth="200.0" spacing="5.0" GridPane.columnIndex="1" GridPane.columnSpan="2147483647" GridPane.rowIndex="2">
+          <children>
+            <Button mnemonicParsing="false" onAction="#okButtonHandler" text="OK" />
+            <Button mnemonicParsing="false" onAction="#cancelButtonHandler" text="Cancel" />
+          </children>
+          <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+          </padding>
+        </HBox>
+        <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="0" GridPane.columnSpan="2147483647" GridPane.rowIndex="3">
+          <children>
+            <Label fx:id="errorLabel" textFill="RED" />
+          </children>
+        </HBox>
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="155.0" minWidth="10.0" prefWidth="114.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="206.0" minWidth="10.0" prefWidth="195.0" />
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" valignment="CENTER" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="30.0" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+  </children>
+</AnchorPane>

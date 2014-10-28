@@ -1,0 +1,11 @@
+author/book_id referrences book/id
+author/writer_id referrences writer/id
+book/publishing_house_id referrences publishing_house/id
+book/series_id referrences series/id
+book/genre_id referrences genre/id
+invoice/user_personal_identifier referrences user/personal_identifier
+invoice_detail/invoice_id referrences invoice/id
+invoice_detail/book_id referrences book/id
+supply_order/publishing_house_id referrences publishing_house/id
+supply_order_detail/supply_order_id referrences supply_order/id
+supply_order_detail/book_id referrences book/id

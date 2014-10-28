@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="700.0" prefWidth="600.0" style="-fx-background-color: beige;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ro.pub.cs.aipi.lab03.controller.Container">
+   <children>
+      <MenuBar fx:id="containerMenu" maxHeight="-Infinity" maxWidth="1.7976931348623157E308" prefHeight="25.0" prefWidth="600.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#closeMenuItemHandler" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Operations">
+               <items>
+                  <Menu fx:id="databaseManagementMenu" mnemonicParsing="false" text="Database Management" />
+               </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help" />
+        </menus>
+      </MenuBar>
+      <TabPane fx:id="databaseManagementTabPane" layoutY="25.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="675.0" prefWidth="600.0" style="-fx-background-color: beige;" tabClosingPolicy="UNAVAILABLE" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+   </children>
+</AnchorPane>
